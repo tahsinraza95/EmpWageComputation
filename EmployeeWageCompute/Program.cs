@@ -6,10 +6,12 @@ using System.Threading.Tasks;
 
 namespace EmployeeWageCompute
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Welcome to Employee Wage Computation Problem Statement");
+            Console.ReadLine();
         }
     }
 }

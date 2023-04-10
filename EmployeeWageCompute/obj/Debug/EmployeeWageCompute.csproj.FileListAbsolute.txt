@@ -1,0 +1,8 @@
+C:\Users\dell\Batch-276\Day4\EmployeeWageCompute\EmployeeWageCompute\bin\Debug\EmployeeWageCompute.exe.config
+C:\Users\dell\Batch-276\Day4\EmployeeWageCompute\EmployeeWageCompute\bin\Debug\EmployeeWageCompute.exe
+C:\Users\dell\Batch-276\Day4\EmployeeWageCompute\EmployeeWageCompute\bin\Debug\EmployeeWageCompute.pdb
+C:\Users\dell\Batch-276\Day4\EmployeeWageCompute\EmployeeWageCompute\obj\Debug\EmployeeWageCompute.csproj.AssemblyReference.cache
+C:\Users\dell\Batch-276\Day4\EmployeeWageCompute\EmployeeWageCompute\obj\Debug\EmployeeWageCompute.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\Batch-276\Day4\EmployeeWageCompute\EmployeeWageCompute\obj\Debug\EmployeeWageCompute.csproj.CoreCompileInputs.cache
+C:\Users\dell\Batch-276\Day4\EmployeeWageCompute\EmployeeWageCompute\obj\Debug\EmployeeWageCompute.exe
+C:\Users\dell\Batch-276\Day4\EmployeeWageCompute\EmployeeWageCompute\obj\Debug\EmployeeWageCompute.pdb
